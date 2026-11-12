@@ -1,0 +1,515 @@
+{
+  "draftRevision": 233,
+  "me": {
+    "id": "PERSON-EC74F6E5B668655CA8EFBDC2",
+    "name": "Genavive Ramirez",
+    "prep": "PREP-9D41A0912D9DAE29610B2581",
+    "pitch": "FORM-9A8A97C64261873875B9A5A6",
+    "verificationCode": "VIEW-DBB8B2953E97A372233B6EA4"
+  },
+  "draft": {
+    "prep": {
+      "repo": "https://github.com/genavivermz/CS110-Week12",
+      "gitTest": "Added initial README.md file with text + time check. \n\"Test Commit - 5:40\"",
+      "access": "Solo",
+      "video1": "- Mini game development pipeline, outlines upcoming topics regarding mindset, folder structure, documentation, and assets.\n- Useful idea: The lack of a secure growth mindset can often bring about more problems regardless of technical prowess, hence its mention.\n- Q: What are the essential folders we need to keep going forward in game development?",
+      "video2": "- Video 2 covers more soft skills that are crucial for developers to work on; from keeping creativity & passion alive, potential challenges, to possible recovery routes out of burnout/problems, we learn to embrace a growth mindset not just for the sake of our work, but for the sake of our work being able to flourish as it's driven by the dev's mental space.\n- Useful idea: Passion, specifically keeping it alive, is critical to determination & working through problems.\n- Q: Considering the importance of keeping creativity intact, does working in teams hamper progress compared to working alone? Or does it aid creativity by reasoning of multiple influxes of creative ideas?",
+      "video3": "1. How to set up project folders to create one + log work smoothly.\n2. Keeping my notes all in one place & being able to track my work the same way.\n3. Is there a specific way I should log my work?",
+      "video4": "O: Using a template to blueprint my work, adding titles/captions + imagery, and overall demos a one-page design doc to show how well you're communicating a specific idea.\nI: Sticking to a one-page design acts as a guideline for work & seems more intuitive.\nQ: How do one-page designs work for teams?",
+      "video5": "O: Shows a clear step-by-step demonstration of how to navigate creation of a project in Unity, along with some shortcuts and an overall intro to the IDE of Unity.\nI: Using Game View seems to be useful.\nQ: When we go in Unity, there are many assets & folders created; are we supposed to upload every single one to GitHub? (I had trouble doing that before)",
+      "video6": "O: How to import character models in 3D into Unity, prefab explanation.\nI: For my project, I could try importing character models & practicing switching them out according to the video.\nQ: How do I create a character model?",
+      "opinion": "Beforehand, I only knew what I wanted the game to look like. Now, I want to start thinking of how I can potentially create character models, which might introduce interesting side-missions to the game (like adding kits). Additionally, trying out the one-page design method will definitely change the way I was originally planning on laying everything out.",
+      "questions": "While I'm working solo, I first need to understand whether or not I should allocate more time toward learning the Unity fundamentals or on crafting a better story. I also need to figure out if it's okay that my game is derivative of Bedwars, as I may need to pivot/add something distinctive."
+    },
+    "currentPage": 27,
+    "prepBoard": {
+      "notes": "1. Keeping a README file handy for a game overview.\n2. Be mindful of maintaining a growth mindset because there WILL be hurdles.\n3. Log every step/edit (makes for easier re-works later/Proper Planning Prevents Poor Performance).\n4. One-page design to keep work/ideas all in one space.\n5. Navigating Unity will be easier with learning shortcuts and gaining an intuition with the IDE.\n6. Can import custom 3D players which might alter game direction.\n= My game :-)",
+      "strokes": [],
+      "images": [],
+      "nodes": [
+        {
+          "id": "c87a2988-7942-43f0-ae4c-2ce01d4108e1",
+          "kind": "text",
+          "x": 0.03150336574420344,
+          "y": 0.0781744087777348,
+          "w": 0.3986636748940414,
+          "h": 0.08705269792159054,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "6eb04ce8-543d-472e-967e-faadcd374da8",
+          "kind": "text",
+          "x": 0.025781600598354534,
+          "y": 0.049390371420795554,
+          "w": 0.31218898030416353,
+          "h": 0.08070717488146906,
+          "color": "#153f48",
+          "text": "README.md description"
+        },
+        {
+          "id": "9950e59b-f33e-4752-bd24-731b96fba778",
+          "kind": "text",
+          "x": 0.3902792321116928,
+          "y": 0.09922349705642214,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "36208f42-f74f-4d7d-8e7d-79d47326fb70",
+          "kind": "text",
+          "x": 0.4517850909997507,
+          "y": 0.13574964548150056,
+          "w": 0.4165644477686362,
+          "h": 0.08698107802271784,
+          "color": "#153f48",
+          "text": "Developer mindset: growth mindset & feedback"
+        },
+        {
+          "id": "39596ee4-668f-47c1-af5f-2936bf9cf5c2",
+          "kind": "text",
+          "x": 0.1424856644228372,
+          "y": 0.2996732700213427,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Log work"
+        },
+        {
+          "id": "96db3bf6-1a3e-4ffc-9af2-55c3c6a28f86",
+          "kind": "rect",
+          "x": 0.2614086262777362,
+          "y": 0.2605831292166215,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "Log work"
+        },
+        {
+          "id": "cae13409-3974-4c25-b5fb-93b2ed179a99",
+          "kind": "rect",
+          "x": 0.33258788332086764,
+          "y": 0.39050878776159165,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "One-page game design"
+        },
+        {
+          "id": "c54bddca-188b-4405-8d33-bfb5753edd65",
+          "kind": "rect",
+          "x": 0.503081525804039,
+          "y": 0.5391702118516608,
+          "w": 0.2485514834205933,
+          "h": 0.13634867431567188,
+          "color": "#153f48",
+          "text": "Learn IDE shortcuts"
+        },
+        {
+          "id": "3a0ae565-42db-4091-8cdc-62af9c3033b0",
+          "kind": "rect",
+          "x": 0.1905534779356769,
+          "y": 0.6937975735178262,
+          "w": 0.18680877586636746,
+          "h": 0.1367783937089081,
+          "color": "#153f48",
+          "text": "3D Players"
+        },
+        {
+          "id": "b982f2c3-d08b-4f6c-bbd5-73272a8ca5db",
+          "kind": "rect",
+          "x": 0.4653851907255048,
+          "y": 0.7988568031741939,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": ""
+        },
+        {
+          "id": "2694b11a-8579-4b34-8a86-2ce89619e013",
+          "kind": "ellipse",
+          "x": 0.44674894041386193,
+          "y": 0.7955336398665005,
+          "w": 0.18,
+          "h": 0.14,
+          "color": "#153f48",
+          "text": "My game :-)"
+        }
+      ],
+      "edges": [
+        {
+          "id": "43efe275-6f6e-4dfd-a0b7-50dfd9a3a200",
+          "from": "6eb04ce8-543d-472e-967e-faadcd374da8",
+          "fromPort": "e",
+          "to": "c87a2988-7942-43f0-ae4c-2ce01d4108e1",
+          "toPort": "e",
+          "color": "#153f48"
+        },
+        {
+          "id": "bdee88f8-0036-4dcd-bd53-ac5b3f54a676",
+          "from": "c87a2988-7942-43f0-ae4c-2ce01d4108e1",
+          "fromPort": "e",
+          "to": "36208f42-f74f-4d7d-8e7d-79d47326fb70",
+          "toPort": "w",
+          "color": "#153f48"
+        },
+        {
+          "id": "f6ebc130-e04a-4736-bf40-39f615a5cdc2",
+          "from": "36208f42-f74f-4d7d-8e7d-79d47326fb70",
+          "fromPort": "w",
+          "to": "9950e59b-f33e-4752-bd24-731b96fba778",
+          "toPort": "s",
+          "color": "#153f48"
+        },
+        {
+          "id": "cab55b02-eade-414d-9885-09f77b52a104",
+          "from": "9950e59b-f33e-4752-bd24-731b96fba778",
+          "fromPort": "s",
+          "to": "96db3bf6-1a3e-4ffc-9af2-55c3c6a28f86",
+          "toPort": "e",
+          "color": "#153f48"
+        },
+        {
+          "id": "60b2d1a5-dc08-43bd-8ead-c363626a9ea3",
+          "from": "96db3bf6-1a3e-4ffc-9af2-55c3c6a28f86",
+          "fromPort": "s",
+          "to": "cae13409-3974-4c25-b5fb-93b2ed179a99",
+          "toPort": "w",
+          "color": "#153f48"
+        },
+        {
+          "id": "f8de943e-192b-4ebd-90c1-00c6e6941148",
+          "from": "cae13409-3974-4c25-b5fb-93b2ed179a99",
+          "fromPort": "s",
+          "to": "c54bddca-188b-4405-8d33-bfb5753edd65",
+          "toPort": "w",
+          "color": "#153f48"
+        },
+        {
+          "id": "98fe4908-871e-43d5-94f9-d205a63acac9",
+          "from": "c54bddca-188b-4405-8d33-bfb5753edd65",
+          "fromPort": "s",
+          "to": "3a0ae565-42db-4091-8cdc-62af9c3033b0",
+          "toPort": "e",
+          "color": "#153f48"
+        },
+        {
+          "id": "3992435b-b201-41c2-8c6b-ffdd17a28fad",
+          "from": "3a0ae565-42db-4091-8cdc-62af9c3033b0",
+          "fromPort": "s",
+          "to": "b982f2c3-d08b-4f6c-bbd5-73272a8ca5db",
+          "toPort": "w",
+          "color": "#153f48"
+        },
+        {
+          "id": "c663dd6e-c503-40b7-87ec-c8aa267cbdc9",
+          "from": "b982f2c3-d08b-4f6c-bbd5-73272a8ca5db",
+          "fromPort": "e",
+          "to": "2694b11a-8579-4b34-8a86-2ce89619e013",
+          "toPort": "e",
+          "color": "#153f48"
+        }
+      ]
+    },
+    "pitch": {
+      "understand": "Thus far, we've walked through a step-by-step lesson from what we must cultivate non-technically as developers--such as a growth mindset--to how to navigate Unity/the IDE we'll be working with.",
+      "offer": "As a solo worker, I'll contribute everything: game idea, creating project file, logging work, importing assets, and keeping a personal GitHub repository for Week 12.",
+      "limits": "I still need to develop an intuition with Unity. In my first attempt, I deleted most assets since it overloaded GitHub. Often times, it feels like I'm doing things wrong, so I need to start checking in with others regardless of working solo to make sure I'm on track.",
+      "availability": "\nPreferred contact: Discord",
+      "tools": "- Unity: building my game\n- Git commands: track changes quickly\n- GitHub: keep repository",
+      "aiTool": "AI: Gemini\nTask: Help me work through ambiguity and explain simple tools/functions necessary to my game.\nVerification: Verifying through console output error messages & potentially running through another AI (like ChatGPT)."
+    },
+    "availability": {
+      "notes": "",
+      "slots": [],
+      "contact": "Discord"
+    },
+    "aiPlan": {
+      "name": "Gemini",
+      "task": "Help me work through ambiguity and explain simple tools/functions necessary to my game.",
+      "verify": "Verifying through console output error messages & potentially running through another AI (like ChatGPT)."
+    }
+  },
+  "receipts": [
+    {
+      "verificationCode": "VIEW-DBB8B2953E97A372233B6EA4",
+      "code": "PREP-9D41A0912D9DAE29610B2581",
+      "kind": "prep",
+      "name": "Genavive Ramirez",
+      "person": "PERSON-EC74F6E5B668655CA8EFBDC2",
+      "issued": "2026-11-12T03:25:02.923Z",
+      "data": {
+        "repo": "https://github.com/genavivermz/CS110-Week12",
+        "gitTest": "Added initial README.md file with text + time check. \n\"Test Commit - 5:40\"",
+        "access": "Solo",
+        "video1": "- Mini game development pipeline, outlines upcoming topics regarding mindset, folder structure, documentation, and assets.\n- Useful idea: The lack of a secure growth mindset can often bring about more problems regardless of technical prowess, hence its mention.\n- Q: What are the essential folders we need to keep going forward in game development?",
+        "video2": "- Video 2 covers more soft skills that are crucial for developers to work on; from keeping creativity & passion alive, potential challenges, to possible recovery routes out of burnout/problems, we learn to embrace a growth mindset not just for the sake of our work, but for the sake of our work being able to flourish as it's driven by the dev's mental space.\n- Useful idea: Passion, specifically keeping it alive, is critical to determination & working through problems.\n- Q: Considering the importance of keeping creativity intact, does working in teams hamper progress compared to working alone? Or does it aid creativity by reasoning of multiple influxes of creative ideas?",
+        "video3": "1. How to set up project folders to create one + log work smoothly.\n2. Keeping my notes all in one place & being able to track my work the same way.\n3. Is there a specific way I should log my work?",
+        "video4": "O: Using a template to blueprint my work, adding titles/captions + imagery, and overall demos a one-page design doc to show how well you're communicating a specific idea.\nI: Sticking to a one-page design acts as a guideline for work & seems more intuitive.\nQ: How do one-page designs work for teams?",
+        "video5": "O: Shows a clear step-by-step demonstration of how to navigate creation of a project in Unity, along with some shortcuts and an overall intro to the IDE of Unity.\nI: Using Game View seems to be useful.\nQ: When we go in Unity, there are many assets & folders created; are we supposed to upload every single one to GitHub? (I had trouble doing that before)",
+        "video6": "O: How to import character models in 3D into Unity, prefab explanation.\nI: For my project, I could try importing character models & practicing switching them out according to the video.\nQ: How do I create a character model?",
+        "opinion": "Beforehand, I only knew what I wanted the game to look like. Now, I want to start thinking of how I can potentially create character models, which might introduce interesting side-missions to the game (like adding kits). Additionally, trying out the one-page design method will definitely change the way I was originally planning on laying everything out.",
+        "questions": "While I'm working solo, I first need to understand whether or not I should allocate more time toward learning the Unity fundamentals or on crafting a better story. I also need to figure out if it's okay that my game is derivative of Bedwars, as I may need to pivot/add something distinctive.",
+        "board": {
+          "notes": "1. Keeping a README file handy for a game overview.\n2. Be mindful of maintaining a growth mindset because there WILL be hurdles.\n3. Log every step/edit (makes for easier re-works later/Proper Planning Prevents Poor Performance).\n4. One-page design to keep work/ideas all in one space.\n5. Navigating Unity will be easier with learning shortcuts and gaining an intuition with the IDE.\n6. Can import custom 3D players which might alter game direction.\n= My game :-)",
+          "strokes": [],
+          "images": [],
+          "nodes": [
+            {
+              "id": "c87a2988-7942-43f0-ae4c-2ce01d4108e1",
+              "kind": "text",
+              "x": 0.03150336574420344,
+              "y": 0.0781744087777348,
+              "w": 0.3986636748940414,
+              "h": 0.08705269792159054,
+              "color": "#153f48",
+              "text": ""
+            },
+            {
+              "id": "6eb04ce8-543d-472e-967e-faadcd374da8",
+              "kind": "text",
+              "x": 0.025781600598354534,
+              "y": 0.049390371420795554,
+              "w": 0.31218898030416353,
+              "h": 0.08070717488146906,
+              "color": "#153f48",
+              "text": "README.md description"
+            },
+            {
+              "id": "9950e59b-f33e-4752-bd24-731b96fba778",
+              "kind": "text",
+              "x": 0.3902792321116928,
+              "y": 0.09922349705642214,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#153f48",
+              "text": ""
+            },
+            {
+              "id": "36208f42-f74f-4d7d-8e7d-79d47326fb70",
+              "kind": "text",
+              "x": 0.4517850909997507,
+              "y": 0.13574964548150056,
+              "w": 0.4165644477686362,
+              "h": 0.08698107802271784,
+              "color": "#153f48",
+              "text": "Developer mindset: growth mindset & feedback"
+            },
+            {
+              "id": "39596ee4-668f-47c1-af5f-2936bf9cf5c2",
+              "kind": "text",
+              "x": 0.1424856644228372,
+              "y": 0.2996732700213427,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#153f48",
+              "text": "Log work"
+            },
+            {
+              "id": "96db3bf6-1a3e-4ffc-9af2-55c3c6a28f86",
+              "kind": "rect",
+              "x": 0.2614086262777362,
+              "y": 0.2605831292166215,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#153f48",
+              "text": "Log work"
+            },
+            {
+              "id": "cae13409-3974-4c25-b5fb-93b2ed179a99",
+              "kind": "rect",
+              "x": 0.33258788332086764,
+              "y": 0.39050878776159165,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#153f48",
+              "text": "One-page game design"
+            },
+            {
+              "id": "c54bddca-188b-4405-8d33-bfb5753edd65",
+              "kind": "rect",
+              "x": 0.503081525804039,
+              "y": 0.5391702118516608,
+              "w": 0.2485514834205933,
+              "h": 0.13634867431567188,
+              "color": "#153f48",
+              "text": "Learn IDE shortcuts"
+            },
+            {
+              "id": "3a0ae565-42db-4091-8cdc-62af9c3033b0",
+              "kind": "rect",
+              "x": 0.1905534779356769,
+              "y": 0.6937975735178262,
+              "w": 0.18680877586636746,
+              "h": 0.1367783937089081,
+              "color": "#153f48",
+              "text": "3D Players"
+            },
+            {
+              "id": "b982f2c3-d08b-4f6c-bbd5-73272a8ca5db",
+              "kind": "rect",
+              "x": 0.4653851907255048,
+              "y": 0.7988568031741939,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#153f48",
+              "text": ""
+            },
+            {
+              "id": "2694b11a-8579-4b34-8a86-2ce89619e013",
+              "kind": "ellipse",
+              "x": 0.44674894041386193,
+              "y": 0.7955336398665005,
+              "w": 0.18,
+              "h": 0.14,
+              "color": "#153f48",
+              "text": "My game :-)"
+            }
+          ],
+          "edges": [
+            {
+              "id": "43efe275-6f6e-4dfd-a0b7-50dfd9a3a200",
+              "from": "6eb04ce8-543d-472e-967e-faadcd374da8",
+              "fromPort": "e",
+              "to": "c87a2988-7942-43f0-ae4c-2ce01d4108e1",
+              "toPort": "e",
+              "color": "#153f48"
+            },
+            {
+              "id": "bdee88f8-0036-4dcd-bd53-ac5b3f54a676",
+              "from": "c87a2988-7942-43f0-ae4c-2ce01d4108e1",
+              "fromPort": "e",
+              "to": "36208f42-f74f-4d7d-8e7d-79d47326fb70",
+              "toPort": "w",
+              "color": "#153f48"
+            },
+            {
+              "id": "f6ebc130-e04a-4736-bf40-39f615a5cdc2",
+              "from": "36208f42-f74f-4d7d-8e7d-79d47326fb70",
+              "fromPort": "w",
+              "to": "9950e59b-f33e-4752-bd24-731b96fba778",
+              "toPort": "s",
+              "color": "#153f48"
+            },
+            {
+              "id": "cab55b02-eade-414d-9885-09f77b52a104",
+              "from": "9950e59b-f33e-4752-bd24-731b96fba778",
+              "fromPort": "s",
+              "to": "96db3bf6-1a3e-4ffc-9af2-55c3c6a28f86",
+              "toPort": "e",
+              "color": "#153f48"
+            },
+            {
+              "id": "60b2d1a5-dc08-43bd-8ead-c363626a9ea3",
+              "from": "96db3bf6-1a3e-4ffc-9af2-55c3c6a28f86",
+              "fromPort": "s",
+              "to": "cae13409-3974-4c25-b5fb-93b2ed179a99",
+              "toPort": "w",
+              "color": "#153f48"
+            },
+            {
+              "id": "f8de943e-192b-4ebd-90c1-00c6e6941148",
+              "from": "cae13409-3974-4c25-b5fb-93b2ed179a99",
+              "fromPort": "s",
+              "to": "c54bddca-188b-4405-8d33-bfb5753edd65",
+              "toPort": "w",
+              "color": "#153f48"
+            },
+            {
+              "id": "98fe4908-871e-43d5-94f9-d205a63acac9",
+              "from": "c54bddca-188b-4405-8d33-bfb5753edd65",
+              "fromPort": "s",
+              "to": "3a0ae565-42db-4091-8cdc-62af9c3033b0",
+              "toPort": "e",
+              "color": "#153f48"
+            },
+            {
+              "id": "3992435b-b201-41c2-8c6b-ffdd17a28fad",
+              "from": "3a0ae565-42db-4091-8cdc-62af9c3033b0",
+              "fromPort": "s",
+              "to": "b982f2c3-d08b-4f6c-bbd5-73272a8ca5db",
+              "toPort": "w",
+              "color": "#153f48"
+            },
+            {
+              "id": "c663dd6e-c503-40b7-87ec-c8aa267cbdc9",
+              "from": "b982f2c3-d08b-4f6c-bbd5-73272a8ca5db",
+              "fromPort": "e",
+              "to": "2694b11a-8579-4b34-8a86-2ce89619e013",
+              "toPort": "e",
+              "color": "#153f48"
+            }
+          ]
+        }
+      },
+      "digest": "f62a9698eeefa97909bda71a54f3816025ca302e1cceed039f04ef5bf5a02eed"
+    },
+    {
+      "verificationCode": "VIEW-DBB8B2953E97A372233B6EA4",
+      "code": "FORM-9A8A97C64261873875B9A5A6",
+      "kind": "pitch",
+      "name": "Genavive Ramirez",
+      "person": "PERSON-EC74F6E5B668655CA8EFBDC2",
+      "issued": "2026-11-12T03:33:36.723Z",
+      "data": {
+        "understand": "Thus far, we've walked through a step-by-step lesson from what we must cultivate non-technically as developers--such as a growth mindset--to how to navigate Unity/the IDE we'll be working with.",
+        "offer": "As a solo worker, I'll contribute everything: game idea, creating project file, logging work, importing assets, and keeping a personal GitHub repository for Week 12.",
+        "limits": "I still need to develop an intuition with Unity. In my first attempt, I deleted most assets since it overloaded GitHub. Often times, it feels like I'm doing things wrong, so I need to start checking in with others regardless of working solo to make sure I'm on track.",
+        "availability": "Preferred contact: Discord",
+        "tools": "- Unity: building my game\n- Git commands: track changes quickly\n- GitHub: keep repository",
+        "aiTool": "AI: Gemini\nTask: Help me work through ambiguity and explain simple tools/functions necessary to my game.\nVerification: Verifying through console output error messages & potentially running through another AI (like ChatGPT).",
+        "ai": {
+          "name": "Gemini",
+          "task": "Help me work through ambiguity and explain simple tools/functions necessary to my game.",
+          "verify": "Verifying through console output error messages & potentially running through another AI (like ChatGPT)."
+        }
+      },
+      "digest": "39127de4129bf4d0f868b6e1dd31ae70dd7eae1ca4aa5ed18b10abaca192e8ab"
+    }
+  ],
+  "clocks": [],
+  "team": null,
+  "invites": [],
+  "serverNow": "2026-11-12T03:33:37.002Z",
+  "github": {
+    "workspaceId": "PERSON-EC74F6E5B668655CA8EFBDC2",
+    "repo": {
+      "owner": "genavivermz",
+      "repo": "CS110-Week12",
+      "fullName": "genavivermz/CS110-Week12",
+      "url": "https://github.com/genavivermz/CS110-Week12",
+      "id": 1453389867,
+      "private": false,
+      "defaultBranch": "main",
+      "verifiedAt": "2026-11-11T01:32:30.072Z"
+    },
+    "connected": false,
+    "account": null,
+    "canBackup": false,
+    "publicBackupApproved": false,
+    "branch": null,
+    "lastBackup": null,
+    "lastCommit": null,
+    "lastError": "",
+    "pending": true,
+    "preferences": {
+      "timerMinutes": 10
+    },
+    "policy": {
+      "repoRequired": true,
+      "verifyOnline": true,
+      "allowOffline": true,
+      "autoBackup": true,
+      "intervalMinutes": 5
+    },
+    "appConfigured": true
+  },
+  "prefs": {
+    "schemaVersion": 1,
+    "theme": "development-road",
+    "lastPage": 27,
+    "timerMinutes": 10
+  }
+}
